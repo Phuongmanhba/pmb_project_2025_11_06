@@ -46,7 +46,7 @@ void menuChinh()
             printf("╔══════════════════════════════════════════════════════╗\n");
             printf("║                   CHẾ ĐỘ: LƯỢNG GIÁC                 ║\n");
             printf("╚══════════════════════════════════════════════════════╝\n\n");
-            trigonometry();
+            menuTrigonometry();
             break;
 
         case 3:
